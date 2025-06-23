@@ -2,7 +2,7 @@
 
 This repository contains automated tests for the DevMind Game API built using Django REST Framework (DRF). The tests ensure correct behavior for starting a game, submitting answers, handling game termination, and retrieving a game summary.
 
-It is not work verywell because it is beyond my experiance
+It is not work very well because it is beyond my experiance
 
 ## 📁 File Structure
 
